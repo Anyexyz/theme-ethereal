@@ -1,21 +1,21 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-vite-starter
+  name: theme-ethereal
 spec:
-  displayName: Vite Starter
+  displayName: Theme Ethereal
   author:
-    name: Halo
-    website: https://github.com/halo-dev
-  description: A development starter theme with Vite Ecosystem for Halo
-  logo: https://www.halo.run/logo
-  homepage: https://github.com/halo-dev/theme-vite-starter#readme
-  repo: https://github.com/halo-dev/theme-vite-starter
-  issues: https://github.com/halo-dev/theme-vite-starter/issues
-  settingName: "theme-vite-starter-setting"
-  configMapName: "theme-vite-starter-configMap"
-  version: 1.0.0
+    name: Anye
+    website: "https://github.com/Anyexyz"
+  description: 基于 Vue 2 + Vue Router + Vuex 开发的 SPA 博客主题
+  logo: "https://www.halo.run/logo"
+  homepage: "https://github.com/Anyexyz/theme-ethereal#readme"
+  repo: "https://github.com/Anyexyz/theme-ethereal"
+  issues: "https://github.com/Anyexyz/theme-ethereal/issues"
+  settingName: "theme-ethereal-setting"
+  configMapName: "theme-ethereal-configMap"
+  version: "1.0.0"
   requires: ">=2.0.0"
   license:
     - name: "GPL-3.0"
-      url: "https://github.com/halo-dev/theme-vite-starter/blob/main/LICENSE"
+      url: "https://github.com/Anyexyz/theme-ethereal/blob/main/LICENSE"
